@@ -80,5 +80,36 @@ By the end of this series, you will be able to:
 - Build a **real-world React project**
 
 ---
+## 📌 How to Run Projects 
+
+## 🛠️ How to Run Any Day's Project
+
+Each day has its own **React project** inside a `project/` folder.  
+Follow these steps to run:
+
+1. **Navigate to the day's project folder**  
+   ```bash
+   cd Day-01-Introduction-Setup/project
+---
+### 2. Install dependencies (only the first time)
+```bash
+npm install
+```
+### 3. Start the development server
+```bash
+npm run dev
+```
+### 4. Open the local URL shown in the terminal (usually http://localhost:5173) in your browser 🚀
+
+---
+⚡ Note:
+- Each day's project is independent (you can run them separately).
+
+- All projects are styled with TailwindCSS (from Day 02 onwards).
+
+- Make sure you have Node.js installed before running.
+---
 
 👉 Start from **Day 01** and follow along!
+
+  Happy Coding! 💖
